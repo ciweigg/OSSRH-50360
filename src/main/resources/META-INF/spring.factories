@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.github.ciweigg.redisson.CacheConfiguration, \
+com.github.ciweigg.operation.RedissonObject, \
+com.github.ciweigg.operation.RedissonBinary, \
+com.github.ciweigg.operation.RedissonCollection
